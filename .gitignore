@@ -1,0 +1,5 @@
+*.pdf
+.vscode/
+*.pickle
+tb_logs/
+*.csv
