@@ -3,3 +3,4 @@
 *.pickle
 tb_logs/
 *.csv
+*.DS_Store
